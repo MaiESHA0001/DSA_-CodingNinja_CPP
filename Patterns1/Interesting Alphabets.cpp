@@ -1,3 +1,4 @@
+/*
 Problem statement
 Print the following pattern for the given number of rows.
 
@@ -42,7 +43,7 @@ int main() {
 			char ch='A' + j-1;
 			cout<<ch;
 
-/*
+*/
 #include <iostream>
 using namespace std;
 int main() {
@@ -59,4 +60,4 @@ int main() {
 	}
 	return 0;
 }
-*/
+
