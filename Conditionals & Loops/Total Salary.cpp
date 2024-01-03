@@ -1,3 +1,4 @@
+/*
 Problem statement
 Write a program to calculate the total salary of a person. The user has to enter the basic salary (an integer) and the grade (an uppercase character), and depending upon which the total salary is calculated as -
 
@@ -46,7 +47,7 @@ On substituting these values to the formula of totalSalary, we get Rs. 8761.53 a
 
    double hra= 0.2*basic;
 
-/*
+*/
 #include<iostream>
 #include<cmath>
 
@@ -100,4 +101,4 @@ else{
        cout<<totalsalary<<endl;
 
 }
-*/
+
