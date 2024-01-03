@@ -1,3 +1,4 @@
+/*
 Problem statement
 Print the following pattern for the given N number of rows.
 
@@ -37,7 +38,7 @@ int main(){
 	*/
   int n;
 
-/*
+*/
   #include<iostream>
 using namespace std;
 
@@ -62,4 +63,4 @@ int main(){
 	  i++;
   }
 }
-  */
+  
