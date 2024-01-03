@@ -70,3 +70,7 @@ int binarySearch(int nums[], int left, int right, int target) {
     }
     return -1;
     }
+
+/* main code */
+
+
