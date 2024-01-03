@@ -1,3 +1,4 @@
+/*
 Problem statement
 Write a program that takes a number as input and prints all its factors except 1 and the number itself.. If the number has only two factors (1 and the number itself), then the program should print -1.
 
@@ -28,7 +29,7 @@ int main() {
     while(i<n)
 
 
-/*
+*/
 
 # include<iostream>
 using namespace std;
@@ -57,4 +58,4 @@ int main() {
         cout<<-1;
     }
 }
-*/
+
