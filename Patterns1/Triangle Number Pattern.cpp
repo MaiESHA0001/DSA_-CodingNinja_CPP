@@ -37,7 +37,6 @@ int main(){
 	* Print output as specified in the question.
 	*/
   int n;
-
 */
 #include<iostream>
 using namespace std;
