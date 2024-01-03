@@ -1,0 +1,6 @@
+Which of the following technique can be applied to improve the performance of the bubble sort?
+
+
+/*
+
+checking if the array is already sorted before started the sorting algorithm 
