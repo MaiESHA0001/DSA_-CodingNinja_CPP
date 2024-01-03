@@ -1,3 +1,4 @@
+/*
 Problem statement
 Print the following pattern for the given N number of rows.
 
@@ -38,7 +39,7 @@ int main() {
         for(int j = 1; j <= i; ++j) {
             cout << "*";
 
-/*
+*/
 #include <iostream>
 using namespace std;
 
@@ -54,4 +55,4 @@ int main() {
     }
     return 0;
 }
-*/
+
