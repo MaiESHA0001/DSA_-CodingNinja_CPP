@@ -9,7 +9,7 @@ int main()
              cout << x;
 } 
 
-                              /*        1     */
+                                                          /*        1     */
 
 
 Problem statement
@@ -22,7 +22,7 @@ int main()
     int z = ++x;
     cout << y << “ “ << z;
 }
-                                   /*     15 17   */
+                                                        /*     15 17   */
 
 Problem statement
 #include <iostream>
@@ -33,7 +33,7 @@ int main()
          cout << (++g * 8);
 } 
 
-                                   /*    32    */
+                                                           /*    32    */
 
 Problem statement
 #include <iostream>
@@ -49,7 +49,7 @@ int main()
     }
     cout << x << “ “ << y;
 }
-                                 /*  inside else 11 20 */
+                                                 /*  inside else 11 20 */
 
 Problem statement
 #include <iostream>
@@ -66,7 +66,7 @@ int main()
     cout << x << “ “ << y;
 }
 
-                            /*    inside if 11 21  */
+                                                 /*    inside if 11 21  */
 
 Problem statement
 #include <iostream>
@@ -83,7 +83,7 @@ int main()
     cout << x << “ “ << y;
 }
 
-                              /*  0 2 4 */
+                                                     /*  0 2 4 */
 
 Problem statement
 What will be the output the following code?
@@ -93,7 +93,7 @@ for(int i = 1; i < 5; i = i + 1){
     cout << i << " ";
 
 }
-                              /*  infinite 0s  */
+                                                    /*  infinite 0s  */
 
 Problem statement
 What will be the output ?
@@ -103,8 +103,8 @@ for(int i = 0; i < 5; i = i + 1) {
            continue;
     cout << i << " ";
  } 
-
-                           /* 0134*/
+ 
+                                                          /* 0134*/
 
 
 Problem statement
@@ -117,12 +117,12 @@ for(int i = 0; i < 2; i = i + 1) {
           cout << j << " ";
       }
  } 
-                /*  00*/
+                                                       /*  00*/
 
 Problem statement
 Which of these jump statements can skip processing remainder of code in its body for a particular iteration ?
 
-                                          /*  continue*/
+                                                    /*  continue*/
 
   Problem statement
 int i = 1;
@@ -134,7 +134,7 @@ while(i < 5) {
     i++;
 }
 
-        /*  12  */
+                                                   /*  12  */
 
 
 Problem statement
@@ -147,7 +147,7 @@ while(i < 5) {
     i++;
 }
 
-/* 12 infinite loop */
+                                               /* 12 infinite loop */
 
 Problem statement
 int i = 1;
@@ -163,7 +163,7 @@ while(i < 3) {
     i++;
 }
 
-                     /*  12128/
+                                                             /*  12128/
 
 Problem statement
 int i = 1;
@@ -178,7 +178,7 @@ while(i < 3) {
     }
     i++;
 }
-                      /*12451245*/
+                                                        /*12451245*/
 
 Problem statement
 Will following code generate error ?
@@ -192,7 +192,7 @@ int main() {
     }
     cout << b << endl;
 }
-                                           /* yes*/
+                                                                 /* yes*/
 Problem statement
 Will following code generate error ?
 
@@ -205,7 +205,7 @@ int main() {
     }
     cout << a << endl;
 }
-                                 /*NO*/
+                                                                     /*NO*/
 What is the output ?
 
 #include <iostream>
@@ -220,7 +220,7 @@ int main() {
     }
     cout << a << endl;
 }
-                       /* 10*/
+                                                                     /* 10*/
 Problem statement
 What is the output ?
 
@@ -233,8 +233,8 @@ int main() {
         cout << a << " ";
         a--;
     }
-}
-                                   /* infinite loop */
+} 
+                                                            /* infinite loop */
 
 
   
