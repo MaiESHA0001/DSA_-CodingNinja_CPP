@@ -1,3 +1,4 @@
+/*
 Problem statement
 Write a program to generate the reverse of a given number N. Print the corresponding reverse number.
 
@@ -27,7 +28,7 @@ int main() {
   while(n != 0) {
     remainder = n % 10;
 
-/*
+*/
 
     #include<iostream>
 using namespace std;
@@ -46,4 +47,4 @@ int main() {
   return 0;
 
 }
-    */
+    
