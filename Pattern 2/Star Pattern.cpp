@@ -1,3 +1,4 @@
+/*
 Problem statement
 Print the following pattern
 
@@ -40,7 +41,7 @@ for(i = 1; i <= n; i++)
 
 for(s = i; s < n; s++)
 
-/*
+*/
   #include<iostream>
 using namespace std;
 int main()
@@ -63,4 +64,4 @@ cout<<"*";
 cout<<endl;
 }
 }
-*/
+
