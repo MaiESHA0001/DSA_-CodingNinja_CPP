@@ -1,3 +1,4 @@
+/*
 Problem statement
 Write a program to input an integer 'n' and print the sum of all its even digits and the sum of all its odd digits separately.
 
@@ -65,7 +66,7 @@ int main() {
     while (a > 0) {
         r = a % 10;
 
-/*
+*/
 #include<iostream>
 using namespace std;
 
@@ -89,4 +90,4 @@ int main() {
     return 0;
 }
 
-*/
+
